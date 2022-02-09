@@ -1,5 +1,5 @@
 # desktop_assistant
-A basic desktop assistant with only few available tasks
+A basic desktop assistant with only few available tasks.
 It can operate tasks like:
 1. 'open Spotify' - (remember to change the file path of your spotify in the .py file first)
 2. 'open youtube'
